@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DemoMyProfile</string>
+    <string name="saveButton">Save</string>
+    <string name="name">Name</string>
+    <string name="GPA">GPA</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+</resources>
